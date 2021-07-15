@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+.deta
+.devcontainer
+Segment.srctrlbm
+Segment.srctrldb
+Segment.srctrlprj
+Source_new.csv
+temp.jpg
+test.py
