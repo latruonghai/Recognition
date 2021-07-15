@@ -1,6 +1,7 @@
 # Recognition
 
 Tải [model](https://drive.google.com/file/d/1yUzwgnTiBGDiV28Ea-R4RoN_5Sy4ts_a/view?usp=sharing) vào thư mục `app/backend/model/CV/weight`
+
 Các bước thực hiện:
 
 - Bước 1: Clone Respository về:
