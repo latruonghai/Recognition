@@ -14,7 +14,7 @@ Các bước thực hiện:
 
   - Với `virtualenv`:
     `virtualenv recognition`
-    Với Windows:
+  - Với Windows:
     `regconition/Scripts/activate`
 
 - Bước 3: Cài đặt thư viện
@@ -22,3 +22,7 @@ Các bước thực hiện:
     `pip3 install -r requirements.txt`
 - Bước 4: Khởi chạy chương trình
   `python3 main.py`
+
+- Bước 5: Truy cập `"/images"` để vào trang chính
+
+Lưu ý: khi muốn **_detect hình ảnh_** khác, cần lưu file vào `app/backend/jinja/static/image/image_before`
